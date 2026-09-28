@@ -34,7 +34,7 @@ Rien d'autre : Hugo est téléchargé automatiquement au premier lancement.
 5. **GitHub Desktop** → relisez les changements → écrivez un message → **Commit to main** → **Push origin**.
 6. Onglet **Actions** : attendez la coche verte, puis rechargez votre site avec **Ctrl+Maj+R** (Windows) ou **Cmd+Maj+R** (Mac). Le changement peut mettre jusqu'à 10 minutes à apparaître.
 
-Pour arrêter : fermez la fenêtre noire (Windows) ou la fenêtre Terminal (Mac ; si une question « Terminer les processus ? » apparaît, répondez oui).
+Pour arrêter : fermez la fenêtre noire (Windows) ou la fenêtre Terminaux (Mac ; si une question « Terminer les processus ? » apparaît, répondez oui).
 
 **Le site d'exemple.** Le template arrive rempli avec le site d'une bibliothèque fictive, la « Bibliothèque des Acacias », pour que vous voyiez tout de suite à quoi ressemble un site complet. Tout se renomme depuis l'éditeur :
 Super !!!!
