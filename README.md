@@ -42,7 +42,7 @@ Pour arrêter : fermez la fenêtre noire (Windows) ou la fenêtre Terminal (Mac 
 - **Pages → Page d'accueil** : le texte de bienvenue (et les pages **Services** et **À propos**) ;
 - les actualités, événements et sélections d'exemple se suppriment un par un depuis l'éditeur, quand vous avez les vôtres.
 
-## À retenir
+
 
 > - **Enregistrer dans le CMS (l'éditeur) ≠ publier.** Tant que vous n'avez pas fait Push, rien n'est en ligne.
 > - **Brouillon coché = visible seulement chez vous** (case « Brouillon » d'une actualité, d'un événement ou d'une sélection) : regardez l'actualité « Brouillon d'exemple », elle est dans votre aperçu mais pas sur le site en ligne. Un article daté dans le futur n'est pas publié non plus avant sa date.
