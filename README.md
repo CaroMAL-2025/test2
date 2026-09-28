@@ -37,7 +37,7 @@ Rien d'autre : Hugo est téléchargé automatiquement au premier lancement.
 Pour arrêter : fermez la fenêtre noire (Windows) ou la fenêtre Terminal (Mac ; si une question « Terminer les processus ? » apparaît, répondez oui).
 
 **Le site d'exemple.** Le template arrive rempli avec le site d'une bibliothèque fictive, la « Bibliothèque des Acacias », pour que vous voyiez tout de suite à quoi ressemble un site complet. Tout se renomme depuis l'éditeur :
-
+Super !!!!
 - **Réglages du site** : titre, description, adresse, horaires, texte du pied de page ;
 - **Pages → Page d'accueil** : le texte de bienvenue (et les pages **Services** et **À propos**) ;
 - les actualités, événements et sélections d'exemple se suppriment un par un depuis l'éditeur, quand vous avez les vôtres.
